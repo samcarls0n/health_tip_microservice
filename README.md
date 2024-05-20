@@ -26,3 +26,4 @@ When the microservice receives a request from the client, it generates a health/
 The tip is then displayed to the user.
 
 ## UML Sequence Diagram
+![UML Sequence Diagram](https://github.com/samcarls0n/health_tip_microservice/blob/main/UML%20Sequence%20Diagram.jpg)
